@@ -4,119 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abd34d29-a376-43b3-ad9f-9ee603ddbff3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/ToDoListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/WebShopApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/collections/linkedlist/LinkedListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/collections/vectorlist/VectorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/enumcoding/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/enumcoding/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/enumcoding/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/DivideTwoNumbersException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/FileCreationExceptionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/ZeroDivisorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/innerclasses/InnerClassesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/innerclasses/PizzaOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectclone/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectclone/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectclone/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectequals/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectequals/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectequals/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objecthashcode/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objecthashcode/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objecthashcode/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/arrays/ArraysApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/controlflow/ControlFlowApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/controlflow/ControlFlowPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/controlflow/ControlFlowPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/datatypes/object/ObjectReferenceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/datatypes/primitives/PrimitivesLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/datatypes/primitives/PrimitivesTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/endsection/EndLevelTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/loops/LoopsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/methods/FunctionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/methods/FunctionAppPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/operators/OperatorsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/FunctProgApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/GuestUserGreeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/LoggedInUserGreeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/WelcomeMessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/consumer/LambdaConsumerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/consumer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/listpractice/ListLambdaExpressionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/listpractice/NumberOperationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/listpractice/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/lambda/streamsexample/StreamExampleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/maps/hashmap/HashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/maps/linkedhashmap/LinkedHashMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/methodreference/MethodReferenceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/methodreference/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/methodreference/PersonComparisonProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/streams/howtocreate/SreamCreationApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expert/streams/streamintroduction/StreamsIntroductionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/AthleteApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/BaskteballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/Swimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/Swimming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/CarsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/DodgeChallenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/ElectricMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/ToyotaSupra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/BasketballApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/BaskteballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/CarsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/DodgeChallenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/GamesPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/GamesPracticeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/defautvalues/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/defautvalues/DefauldValuesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/defautvalues/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/athlete/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/athlete/AthleteApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/athlete/BaskteballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/athlete/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/car/CarsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/car/DodgeChallenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/car/ToyotaSupra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/finalkeyword/Brazil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/finalkeyword/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/athlete/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/athlete/AthleteApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/athlete/BaskteballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/athlete/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/car/CarsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/car/DodgeChallenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/car/ToyotaSupra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/AthleteApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/BaskteballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/Swimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/Swimming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/CarsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/DodgeChallenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/ElectricMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/ToyotaSupra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/statickeyword/CountriesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/statickeyword/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/stringfunctions/StringFunctionsApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="abd34d29-a376-43b3-ad9f-9ee603ddbff3" name="Changes" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pinkterton/javaCourse.git",
+    "accountId": "820d120e-f8de-415a-848e-e414d5e4ba0b"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../.jdks/openjdk-22.0.2/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
   </component>
@@ -339,10 +233,24 @@
       <workItem from="1732629819946" duration="177000" />
       <workItem from="1732703190718" duration="19000" />
       <workItem from="1732703215571" duration="2599000" />
+      <workItem from="1733056031074" duration="300000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1733056048573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733056048573</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
