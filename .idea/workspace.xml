@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abd34d29-a376-43b3-ad9f-9ee603ddbff3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/ToDoListApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/WebShopApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/collections/linkedlist/LinkedListApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/collections/vectorlist/VectorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/enumcoding/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/enumcoding/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/enumcoding/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/DivideTwoNumbersException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/FileCreationExceptionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/ZeroDivisorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/innerclasses/InnerClassesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/innerclasses/PizzaOther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectclone/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectclone/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectclone/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectequals/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectequals/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectequals/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objecthashcode/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objecthashcode/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objecthashcode/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/arrays/ArraysApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/controlflow/ControlFlowApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/controlflow/ControlFlowPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/controlflow/ControlFlowPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/datatypes/object/ObjectReferenceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/datatypes/primitives/PrimitivesLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/datatypes/primitives/PrimitivesTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/endsection/EndLevelTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/loops/LoopsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/methods/FunctionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/methods/FunctionAppPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beginner/operators/OperatorsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/FunctProgApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/GuestUserGreeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/LoggedInUserGreeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/basics/WelcomeMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/consumer/LambdaConsumerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/consumer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/listpractice/ListLambdaExpressionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/listpractice/NumberOperationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/listpractice/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/lambda/streamsexample/StreamExampleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/maps/hashmap/HashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/maps/linkedhashmap/LinkedHashMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/methodreference/MethodReferenceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/methodreference/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/methodreference/PersonComparisonProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/streams/howtocreate/SreamCreationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expert/streams/streamintroduction/StreamsIntroductionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/AthleteApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/BaskteballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/Swimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/athlete/Swimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/CarsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/DodgeChallenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/ElectricMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/abstraction/car/ToyotaSupra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/BasketballApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/BaskteballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/CarsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/DodgeChallenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/GamesPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/classandobjects/GamesPracticeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/defautvalues/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/defautvalues/DefauldValuesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/defautvalues/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/athlete/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/athlete/AthleteApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/athlete/BaskteballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/athlete/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/car/CarsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/car/DodgeChallenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/encapsulation/car/ToyotaSupra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/finalkeyword/Brazil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/finalkeyword/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/athlete/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/athlete/AthleteApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/athlete/BaskteballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/athlete/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/car/CarsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/car/DodgeChallenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/inheritance/car/ToyotaSupra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/AthleteApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/BaskteballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/Swimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/athlete/Swimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/CarsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/DodgeChallenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/ElectricMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/polymorphism/car/ToyotaSupra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/statickeyword/CountriesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/statickeyword/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/stringfunctions/StringFunctionsApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../.jdks/openjdk-22.0.2/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2m4KkuaEByLiAA64oBXJXTOrwTS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArraysApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AthleteApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasketballApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControlFlowApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControlFlowPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControlFlowPractice2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountriesApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefauldValuesApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideTwoNumbersException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EndLevelTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileCreationExceptionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctProgApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionAppPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InnerClassesApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaConsumerApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListLambdaExpressionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectReferenceApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperatorsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PizzaApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitivesLesson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitivesTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SreamCreationApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamExampleApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamsIntroductionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringFunctionsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToDoListApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VectorApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WebShopApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.advanced.objectclone.PizzaApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.advanced.objectequals.PizzaApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.advanced.objecthashcode.PizzaApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.intermediate.abstraction.athlete.AthleteApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.intermediate.abstraction.car.CarsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.intermediate.encapsulation.athlete.AthleteApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.intermediate.encapsulation.car.CarsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.intermediate.inheritance.athlete.BasketballApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.intermediate.inheritance.car.CarsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primitivesLesson.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pinkterton/course/src/advanced/objecthashcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pinkterton/course/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="expert.lambda.listpractice" />
+      <recent name="expert.lambda.basics" />
+      <recent name="intermediate.defautvalues" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pinkterton\course\src\advanced\objecthashcode" />
+      <recent name="C:\Users\pinkterton\course\src\advanced\objectequals" />
+      <recent name="C:\Users\pinkterton\course\src\advanced\objectclone" />
+      <recent name="C:\Users\pinkterton\course\src\intermediate\statickeyword" />
+      <recent name="C:\Users\pinkterton\course\src\intermediate\polymorphism\athlete" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodReferenceApp">
+    <configuration name="HashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expert.maps.hashmap.HashMapApp" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expert.maps.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expert.lambda.consumer.LambdaConsumerApp" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expert.lambda.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReferenceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expert.methodreference.MethodReferenceApp" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expert.methodreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SreamCreationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expert.streams.howtocreate.SreamCreationApp" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expert.streams.howtocreate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsIntroductionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expert.streams.streamintroduction.StreamsIntroductionApp" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expert.streams.streamintroduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodReferenceApp" />
+        <item itemvalue="Application.SreamCreationApp" />
+        <item itemvalue="Application.StreamsIntroductionApp" />
+        <item itemvalue="Application.HashMapApp" />
+        <item itemvalue="Application.LambdaConsumerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd34d29-a376-43b3-ad9f-9ee603ddbff3" name="Changes" comment="" />
+      <created>1726330557223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726330557223</updated>
+      <workItem from="1726330558320" duration="2280000" />
+      <workItem from="1727012092080" duration="38000" />
+      <workItem from="1730056349349" duration="10417000" />
+      <workItem from="1730093575723" duration="4714000" />
+      <workItem from="1730650056697" duration="5665000" />
+      <workItem from="1731146309145" duration="3313000" />
+      <workItem from="1731232995140" duration="5171000" />
+      <workItem from="1731286073672" duration="6877000" />
+      <workItem from="1731295824516" duration="2194000" />
+      <workItem from="1731349802945" duration="2550000" />
+      <workItem from="1731696892324" duration="284000" />
+      <workItem from="1731772764912" duration="5100000" />
+      <workItem from="1731778516864" duration="1384000" />
+      <workItem from="1731866460431" duration="1230000" />
+      <workItem from="1731877197284" duration="13200000" />
+      <workItem from="1731906501821" duration="137000" />
+      <workItem from="1731909706819" duration="23000" />
+      <workItem from="1732363476758" duration="13727000" />
+      <workItem from="1732450456562" duration="24897000" />
+      <workItem from="1732503592306" duration="1302000" />
+      <workItem from="1732512555533" duration="67000" />
+      <workItem from="1732629819946" duration="177000" />
+      <workItem from="1732703190718" duration="19000" />
+      <workItem from="1732703215571" duration="2599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
